@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 <a href="https://app.daily.dev/YatechDev"><img src="https://api.daily.dev/devcards/70e7a1af991942ad94397c6f07f6fd9b.png?r=ac7" width="400" alt="Mateusz Smalarz's Dev Card"/></a>
 
-<img src="assets/icons/webstorm.svg" width="50" alt="WebStorm Icon"> 
+<img src="assets/icons/webstorm.svg" width="50" alt="WebStorm Icon">
 <img src="assets/icons/visual-studio-code.svg" width="50" alt="Visual Studio Code">
