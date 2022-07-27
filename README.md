@@ -33,6 +33,9 @@ Here are some ideas to get you started:
 <img src="assets/icons/visual-studio-code.svg" width="30" alt="Visual Studio Code">
 </p>
 
+<hr>
+
+## My Portfolio
 
 ### Portfolio Projects for [Code Institute](https://codeinstitute.net/) Diploma:
 
@@ -43,6 +46,11 @@ Here are some ideas to get you started:
 |  3  |                                                                                             2022-10-17                                                                                             |                                                                                                                -                                                                                                                |    -    |
 |  4  |                                                                                             2023-02-28                                                                                             |                                                                                                                -                                                                                                                |    -    |
 |  5  |                                                                                             2023-05-30                                                                                             |                                                                                                                -                                                                                                                |    -    |
+
+
+### Elements Created by me:
+
+
 <hr>
 
 ## Stats
