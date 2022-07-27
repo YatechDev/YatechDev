@@ -1,4 +1,7 @@
-### Hi there 👋
+# Mateusz Smalarz - YatechDev
+#### Junior Full Stack Software Developer
+
+<hr>
 
 <!--
 **YatechDev/YatechDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
