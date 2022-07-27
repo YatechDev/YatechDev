@@ -1,5 +1,4 @@
 # Mateusz Smalarz - YatechDev
-#### Junior Full Stack Software Developer
 ![Baner](assets/images/yatechdev-baner.jpg)
 
 <hr>
