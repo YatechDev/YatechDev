@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-## Portfolio Projects for Code Institute Diploma:
+### Portfolio Projects for [Code Institute](https://codeinstitute.net/) Diploma:
 
 | No. |                                                                                              Project                                                                                               |                                                                                                           Description                                                                                                           |  Grade  | 
 |:---:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------:|
@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 |  3  |                                                                                             2022-10-17                                                                                             |                                                                                                                -                                                                                                                |    -    |
 |  4  |                                                                                             2023-02-28                                                                                             |                                                                                                                -                                                                                                                |    -    |
 |  5  |                                                                                             2023-05-30                                                                                             |                                                                                                                -                                                                                                                |    -    |
+<hr>
 
+## Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yatechdev&theme=dark&show_icons=true)
 
