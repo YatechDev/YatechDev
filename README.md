@@ -18,9 +18,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About Me:
+
 ## My Stack:
 
-#### My IDE
+#### Programming Language:
+#### Frameworks:
+
+
+#### My IDE:
 
 <p>
 <img src="assets/icons/webstorm.svg" width="30" alt="WebStorm Icon">
