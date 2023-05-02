@@ -22,17 +22,25 @@ Here are some ideas to get you started:
 ## My Stack:
 
 #### Programming Language:
+
+<img src="assets/icons/html5.svg" width="40" alt="WebStorm Icon">
+<img src="assets/icons/css3.svg" width="40" alt="Visual Studio Code">
+<img src="assets/icons/javascript.svg" width="40" alt="Pycharm">
+
 #### Frameworks:
 
 
 #### My IDE:
 
 <p>
-<img src="assets/icons/webstorm.svg" width="30" alt="WebStorm Icon">
-<img src="assets/icons/visual-studio-code.svg" width="30" alt="Visual Studio Code">
+<img src="assets/icons/webstorm.svg" width="40" alt="WebStorm Icon">
+<img src="assets/icons/visual-studio-code.svg" width="40" alt="Visual Studio Code">
+<img src="assets/icons/pycharm.svg" width="40" alt="Pycharm">
 </p>
 
 <hr>
+
+#### Currently learning
 
 ## My Portfolio
 
@@ -47,7 +55,7 @@ Here are some ideas to get you started:
 |  5  |                                                                                    E-Commerce                                                    20/11/2023                                                                                    |                                                                                                                                                                                                                                                                  -                                                                                                                                                                                                                                                                   |           -            |
 
 
-### Elements Created by me:
+[//]: # (### Elements Created by me:)
 
 
 <hr>
