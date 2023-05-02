@@ -22,10 +22,11 @@ Here are some ideas to get you started:
 ## My Stack:
 
 #### Programming Language:
-
-<img src="assets/icons/html5.svg" width="40" alt="HTML 5">
-<img src="assets/icons/css3.svg" width="40" alt="CSS 3">
-<img src="assets/icons/javascript.svg" width="40" alt="JavaScript">
+<p>
+<img src="assets/icons/html5.svg" width="30" alt="HTML 5">
+<img src="assets/icons/css3.svg" width="30" alt="CSS 3">
+<img src="assets/icons/javascript.svg" width="30" alt="JavaScript">
+</p>
 
 #### Frameworks:
 
@@ -33,9 +34,9 @@ Here are some ideas to get you started:
 #### My IDE:
 
 <p>
-<img src="assets/icons/webstorm.svg" width="40" alt="WebStorm Icon">
-<img src="assets/icons/visual-studio-code.svg" width="40" alt="Visual Studio Code">
-<img src="assets/icons/pycharm.svg" width="40" alt="Pycharm">
+<img src="assets/icons/webstorm.svg" width="30" alt="WebStorm Icon">
+<img src="assets/icons/visual-studio-code.svg" width="30" alt="Visual Studio Code">
+<img src="assets/icons/pycharm.svg" width="30" alt="Pycharm">
 </p>
 
 <hr>
