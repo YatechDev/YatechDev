@@ -19,6 +19,31 @@ Here are some ideas to get you started:
 -->
 ## About Me:
 
+```javascript
+const YatechDev = {
+    name: ["Mateusz Smalarz"],
+    currentLocation: ["Lincoln, UK"],
+    role: ["Student at LVL5 Full Stack Software Development"],
+    languages: ["English", "Polish",],
+    openTo: ["Collaboration", "Open Source Projects"],
+    hobby: ["Programming", "Music", "Books", "Games", "Social Events"],
+    contact: {
+        portfolio: ["In progress"],
+        email: ["smalarz.eu@gmail.com"],
+        gitHub: ["YatechDev"],
+        linkedin: ["https://www.linkedin.com/in/mateusz-smalarz/"],
+        discord: ["Ruhun#5046"],
+    },
+    currentFocus: ["Python"]
+};
+
+if (youWant()) {
+    youCan();
+} else {
+    youCant();
+}
+```
+
 ## My Stack:
 
 #### Programming Language:
