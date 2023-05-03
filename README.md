@@ -24,15 +24,17 @@ const YatechDev = {
     name: ["Mateusz Smalarz"],
     currentLocation: ["Lincoln, UK"],
     role: ["Student at LVL5 Full Stack Software Development"],
-    languages: ["English", "Polish",],
+    languages: ["English", "Polish"],
     openTo: ["Collaboration", "Open Source Projects"],
     hobby: ["Programming", "Music", "Books", "Games", "Social Events"],
     contact: {
-        portfolio: ["In progress"],
-        email: ["smalarz.eu@gmail.com"],
+        portfolio: ["https://www.yatech.dev"],
+        email: ["contact@yatech.dev"],
         gitHub: ["YatechDev"],
         linkedin: ["https://www.linkedin.com/in/mateusz-smalarz/"],
+        twitter: ["YatechDev"],
         discord: ["Ruhun#5046"],
+        
     },
     currentFocus: ["Python"]
 };
